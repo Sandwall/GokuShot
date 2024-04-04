@@ -10,7 +10,7 @@ Download either the self-contained or framework-dependent version of the app fro
 Once the program starts, two windows will appear.
 
 <p align="center">
-  <img src="https://github.com/Sandwall/GokuShot/blob/master/example.png" alt="GokuShot Application" height="720px"/>
+  <img src="https://raw.githubusercontent.com/Sandwall/GokuShot/main/example.png" alt="GokuShot Application" height="720px"/>
 </p>
 
 The main window defines the capture area, and it can be resized to fit the user's needs. The smaller window contains Goku, and can be moved around even by dragging your mouse on Goku himself. Simply move and resize the window until you are satisfied with the position and scale, and use the controls in the main window in order to set his transparency & rotation to your liking. Once you're ready, hit the capture button in the top left, and the screenshot will appear on your Desktop folder, if you haven't changed it in the settings. Don't worry about the border around Goku showing up in the final screenshot, as it disappears whenever the capture button is pressed
